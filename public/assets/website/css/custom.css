@@ -246,7 +246,7 @@ img.lazy.img-fluid.f-logo.loading {
 .banner-content-box {
     position: relative;
     text-align: center;
-    padding-top: 3%;
+    padding-top: 5%;
     padding-bottom: 35px;
 }
 
@@ -327,7 +327,7 @@ img.lazy.img-fluid.f-logo.loading {
 .header-slider {
     position: relative;
     margin-bottom: 260px;
-    margin-top: 4px;
+    margin-top: 9%;
     height: 90vh;
 }
 
@@ -1340,7 +1340,7 @@ section.creation-sec {
 
 .testimonial-slider .owl-theme .owl-dots .owl-dot.active span,
 .owl-theme .owl-dots .owl-dot:hover span {
-    background-color: #ef7d00;
+    background-color: #ff0000;
     height: 13px;
     width: 13px;
 }
@@ -1778,7 +1778,7 @@ button:focus {
 .exper-content-box h3 {
     margin: 0;
     padding: 40px 0;
-    color: #ef7d00;
+    color: #ff0000;
     font-size: 24px;
     font-family: 'Ubuntu', sans-serif;
 }
@@ -1794,7 +1794,7 @@ button:focus {
 .btn-lets {
     color: #151515;
     font-size: 18px;
-    border: 2px solid #ef7d00;
+    border: 2px solid #ff0000;
     padding: 10px 60px;
     font-weight: 500;
     cursor: pointer;
@@ -1862,7 +1862,7 @@ button:focus {
 }
 
 .btn-lets:hover {
-    background-image: linear-gradient(to right bottom, #ef7d00, #ed7c00, #d94f01, #e5480c, #ee3300);
+    background-image: linear-gradient(to right bottom, #000000, #343434d9, #000, #BE1E2D, #ff0000);
     color: #fff;
 }
 
@@ -2296,7 +2296,7 @@ section.get-in-touch-sec {
     margin: 0;
     padding: 0;
     font-size: 48px;
-    color: #ee7d00;
+    color: #ff0000;
     font-family: 'Ubuntu', sans-serif;
     font-weight: bold;
 }
@@ -2338,7 +2338,7 @@ section.get-in-touch-sec {
 .call-us-content a {
     margin: 0;
     padding: 0 0 0 0;
-    color: #ee7d00;
+    color: #ff0000;
     font-size: 24px;
     font-weight: bold;
     font-family: 'Ubuntu', sans-serif;
@@ -2397,7 +2397,7 @@ section.get-in-touch-sec {
     text-transform: uppercase;
     font-family: 'Ubuntu', sans-serif;
     font-weight: 500;
-    border: 2px solid #ee7d00;
+    border: 2px solid #ff0000;
     border-radius: 40px;
     -webkit-box-shadow: 0px 0px 20px -8px rgba(0, 0, 0, 0.75);
     -moz-box-shadow: 0px 0px 20px -8px rgba(0, 0, 0, 0.75);
@@ -2405,14 +2405,14 @@ section.get-in-touch-sec {
 }
 
 .btn-submit:hover {
-    background-image: linear-gradient(to right bottom, #ef7d00, #ed7c00, #d94f01, #e5480c, #ee3300);
+    background-image: linear-gradient(to right bottom, #000000, #343434d9, #000, #BE1E2D, #ff0000;
     color: #fff;
 }
 
 .form-banner .submit:hover {
     background: #fff;
-    color: #ee7d00;
-    border-color: #ee7d00;
+    color: #ff0000;
+    border-color: #ff0000;
 }
 
 .border-none {
@@ -2656,7 +2656,7 @@ section.pricing-page {
 .portfolio-tabs .nav-pills .nav-link.active,
 .nav-pills .show>.nav-link {
     background-color: transparent;
-    color: #ef7d00;
+    color: #ff0000;
 }
 
 
@@ -3292,7 +3292,7 @@ section.benefits-sec {
     flex-direction: column;
     /* background-color: #fa0445; */
     opacity: 1;
-    background-image: linear-gradient(to right bottom, #ee7c00, #eb7700, #de4d05, #e6460b, #ed3501);
+    background-image: linear-gradient(to right bottom, #000000, #343434d9, #000, #BE1E2D, #ff0000) ;
 }
 
 .custom-popup a.closed {

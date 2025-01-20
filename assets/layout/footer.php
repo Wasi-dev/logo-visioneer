@@ -126,7 +126,7 @@
       <div class="copyright-sec">
          <div class="container">
             <div class="copyright-box">
-               <p>© copyright 2023 Uk agency all rights reserved</p>
+               <p>© copyright 2025 Logo Visoneer all rights reserved</p>
             </div>
          </div>
       </div>
